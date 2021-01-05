@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  TestCario.cpp
+TestCario.obj : error LNK2001: unresolved external symbol __imp__cairo_image_surface_create
+C:\Users\RLong\Desktop\Cairo-VS-master\projects\Release\TestCario.exe : fatal error LNK1120: 1 unresolved externals
